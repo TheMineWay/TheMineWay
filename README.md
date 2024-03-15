@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel Campos</h1>
 <h3 align="center">A passionate fullstack developer from Barcelona</h3>
 
-<p align="center">🔭 I’m currently working on **Decathlon.es**</p>
+<p align="center">🧑‍💻 I’m currently working on <b>Decathlon.es</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,5 +22,4 @@
     </tr>
 </table>
 
-<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/joelkmps"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="joelkmps" /></a></p><br><br>
