@@ -22,7 +22,8 @@
 
 <a href="https://github.com/TheMineWay">
 
-[![TheMineWay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMineWay&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_mocha)](https://github.com/TheMineWay/github-readme-stats)
+[![TheMineWay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMineWay&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_mocha)](https://github.com/TheMineWay)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMineWay&theme=catppuccin_mocha)](https://github.com/TheMineWay)
 
 </a>
 
@@ -31,6 +32,6 @@
 <div>
   <h2>Top repos made with 💖</h2>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMineWay&repo=statenet)](https://github.com/TheMineWay/statenet)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMineWay&repo=mangas-api)](https://github.com/TheMineWay/mangas-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMineWay&repo=statenet&theme=catppuccin_mocha)](https://github.com/TheMineWay/statenet)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMineWay&repo=mangas-api&theme=catppuccin_mocha)](https://github.com/TheMineWay/mangas-api)
 </div>
