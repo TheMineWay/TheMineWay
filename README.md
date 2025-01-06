@@ -22,10 +22,15 @@
 
 <a href="https://github.com/TheMineWay">
 
-<img src="https://raw.githubusercontent.com/TheMineWay/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/TheMineWay/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/TheMineWay/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+[![TheMineWay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMineWay&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_mocha)](https://github.com/TheMineWay/github-readme-stats)
 
 </a>
 
+</div>
+
+<div>
+  <h2>Top repos made with 💖</h2>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMineWay&repo=statenet)](https://github.com/TheMineWay/statenet)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMineWay&repo=mangas-api)](https://github.com/TheMineWay/mangas-api)
 </div>
