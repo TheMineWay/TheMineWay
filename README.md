@@ -1,37 +1,40 @@
 
 <div align="center" width="50">
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheMineWay&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheMineWay&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&title=HITS&edge_flat=false)
+# Hi, I'm Joel Campos 👋
+
+### Senior Full-Stack Developer based in Barcelona
+
+I craft beautiful, functional web experiences with modern technologies. 5+ years of experience specializing in React, Node.js, and building seamless, human-centered user interfaces.
+
+📍 Barcelona &nbsp;|&nbsp; 🌐 [joelcampos.dev](https://joelcampos.dev/en) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/joelcamposoliva)
 
 </div>
 
 <hr>
 
-### Tools I Use
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-<hr>
-
-<div align="center">
-
-<a href="https://github.com/TheMineWay">
-
-[![TheMineWay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMineWay&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_mocha)](https://github.com/TheMineWay)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMineWay&theme=catppuccin_mocha)](https://github.com/TheMineWay)
-
-</a>
-
-</div>
-
-<div>
-  <h2>Top repos made with 💖</h2>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMineWay&repo=statenet&theme=catppuccin_mocha)](https://github.com/TheMineWay/statenet)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMineWay&repo=mangas-api&theme=catppuccin_mocha)](https://github.com/TheMineWay/mangas-api)
-</div>
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
